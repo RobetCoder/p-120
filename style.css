@@ -1,0 +1,24 @@
+body{
+   background-position  : contain;
+   align-items: center;
+   text-align: center;
+
+}
+.test_image_and_result{
+    border-radius: 5%;
+    background-color: aqua;
+    margin-bottom: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+img{
+    border-radius: 5%;
+    width: 100%;
+    height: 500px;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+
+}
